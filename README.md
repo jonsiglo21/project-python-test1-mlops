@@ -7,6 +7,7 @@ Our first Python project test
 - item a
 - item b
 - item c
+- item d
 
 ### list 2
 - item 1
